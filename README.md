@@ -1,3 +1,4 @@
+Find me: https://discord.gg/V45YW76NeN
 
 <div align="center">
   <img src="https://media.giphy.com/media/krHtclTmuGk0t02F7V/giphy.gif" alt="GIF" width="100%" />
