@@ -2,7 +2,7 @@
 
 Feeling tired? Want to unwind? Join me on Discord for some chill chats and cozy vibes!
 
-[![Join Me on Discord](https://img.shields.io/badge/Join%20Me%20on%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/V45YW76NeN)
+[![Find Sleepy Me on Discord](https://img.shields.io/badge/Join%20Me%20on%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/V45YW76NeN)
 
 
 
