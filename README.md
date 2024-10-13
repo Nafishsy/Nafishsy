@@ -6,6 +6,7 @@ Feeling tired? Want to unwind? Join me on Discord for some chill chats and cozy 
 
 
 
+
 <div align="center">
   <img src="https://media.giphy.com/media/krHtclTmuGk0t02F7V/giphy.gif" alt="GIF" width="100%" />
 </div>
