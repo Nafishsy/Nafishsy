@@ -1,4 +1,10 @@
-Find me: https://discord.gg/V45YW76NeN
+### 😴 Sleepy Vibes on Discord 🌙
+
+Feeling tired? Want to unwind? Join me on Discord for some chill chats and cozy vibes!
+
+[![Join Me on Discord](https://img.shields.io/badge/Join%20Me%20on%20Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/V45YW76NeN)
+
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/krHtclTmuGk0t02F7V/giphy.gif" alt="GIF" width="100%" />
