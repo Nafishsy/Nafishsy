@@ -1,7 +1,7 @@
 
 <div align="center">
-[<img src="" align="center" style="width: 100%" />](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXoxZzE0MXQ5cjJyeHR5Z24xcDB1czUxNTc0OWg4bjNycjNwOHNseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/goQ4bc8X0Lh6w/giphy.gif)
-</div>  
+  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXoxZzE0MXQ5cjJyeHR5Z24xcDB1czUxNTc0OWg4bjNycjNwOHNseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/goQ4bc8X0Lh6w/giphy.gif" align="center" style="width: 100%" />
+</div>
   
 
 - ❓ Ask me about anything related to Data Science, Software Engineering, .NET, or Problem-solving  
