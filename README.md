@@ -1,8 +1,10 @@
 
 <div align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXoxZzE0MXQ5cjJyeHR5Z24xcDB1czUxNTc0OWg4bjNycjNwOHNseiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/goQ4bc8X0Lh6w/giphy.gif" align="center" style="width: 100%" />
+  <img src="https://media.giphy.com/media/krHtclTmuGk0t02F7V/giphy.gif" alt="GIF" width="100%" />
 </div>
-  
+
+
+
 
 - ❓ Ask me about anything related to Data Science, Software Engineering, .NET, or Problem-solving  
   
