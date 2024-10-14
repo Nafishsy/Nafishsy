@@ -107,4 +107,4 @@ Feeling tired? Want to unwind? Join me on Discord for some chill chats and cozy 
 <br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+
