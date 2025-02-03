@@ -77,7 +77,7 @@
   
 - **NLP in Human-Agent Interaction** (Accepted)  
   Conducted comprehensive review of over 150 papers on NLP applications in human-agent interaction.
-
+  - [Publication](https://doi.org/10.1016/j.nlp.2024.100112)
 <br/>
 
 ## Connect with me  
