@@ -71,11 +71,11 @@
 <br/>
 
 ## Publications  
-- **Securing Data Management for ERP Systems Using Blockchain** (Dec 2023)  
+- **Securing Data Management for ERP Systems Using Blockchain** (December 2023)  
   Proposed two models for integrating Blockchain into ERP systems.  
   - [Publication](https://doi.org/10.5815/ijieeb.2023.06.02)
   
-- **NLP in Human-Agent Interaction** (Accepted)  
+- **NLP in Human-Agent Interaction** (December 2024)  
   Conducted comprehensive review of over 150 papers on NLP applications in human-agent interaction.
   - [Publication](https://doi.org/10.1016/j.nlp.2024.100112)
 <br/>
