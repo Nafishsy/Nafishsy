@@ -8,6 +8,9 @@ Machine Learning Engineer | Computer Vision Researcher
 
 Currently developing few-shot learning approaches for retinal vessel segmentation, achieving 90.1% Dice coefficient with minimal training data. Research interests include computer vision, medical image analysis, and human-agent interaction systems.
 
+**Live Demo:**  
+[![Hugging Face Space](https://img.shields.io/badge/🤗-Few-Shot%20Segmentation-blue)](https://suzera1n-few-shot.hf.space)
+
 ## Publications
 
 - **Deep Learning-Based Natural Language Processing in Human-Agent Interaction** (2024) - Natural Language Processing Journal
