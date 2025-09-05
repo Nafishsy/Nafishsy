@@ -2,7 +2,8 @@
 
 Machine Learning Engineer | Computer Vision Researcher
 
-[nafizahmed273273@gmail.com](mailto:nafizahmed273273@gmail.com) • [nafishsy.github.io](https://nafishsy.github.io) • [LinkedIn](https://linkedin.com/in/nafishy)
+[nafizahmed273273@gmail.com](mailto:nafizahmed273273@gmail.com) • [Portfolio](https://cv-of-nafiz-ahmed.tiiny.site/) • [GitHub Pages](https://nafishsy.github.io) • [LinkedIn](https://linkedin.com/in/nafishy)
+
 
 ## Research
 
