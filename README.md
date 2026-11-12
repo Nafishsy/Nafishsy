@@ -21,7 +21,7 @@ Working on Interpretability research.
 
 ## Education
 
-**PhD in Electrical & Computer Engineering and **, University of Oklahoma  
+**PhD in Electrical & Computer Engineering**, University of Oklahoma  
 
 
 **BSc in Computer Science and Engineering**, American International University–Bangladesh  
