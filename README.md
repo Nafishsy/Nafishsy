@@ -31,7 +31,7 @@ Working on Interpretability research.
 
 ## Experience
 
-**Mid level Machine Learning Engineer** – Periscopelabs, Bangladesh *(Remote)* 
+**Mid level Machine Learning Engineer** – Periscopelabs, Bangladesh
 **Machine Learning Engineer** – MetroSofts, Sweden *(Remote)*  
 **Research Intern** – AMIR Lab, Bangladesh  
 **Software Engineer** – Shapla Infosys, Bangladesh  
